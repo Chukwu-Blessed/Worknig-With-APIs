@@ -18,8 +18,6 @@ The third API call is the solution to the assignment written in comments, the go
 https://catfact.ninja/fact
 ```
 
-## Getting Started
-
 ### Dependencies
 
 * This is basically written in JavaScript and highlights how to make API request using the fetch() method.
